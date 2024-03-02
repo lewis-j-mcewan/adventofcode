@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day01Part1", "Day01Part1\Day01Part1.csproj", "{815997A4-B109-4CFC-9E06-2A606ED37761}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day01", "Day01", "{215DD4CE-C825-4DB6-B05B-CE390D9CE322}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day01Part2", "Day01Part2\Day01Part2.csproj", "{4232DB27-15DB-4E00-B201-E383A9D3F095}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{815997A4-B109-4CFC-9E06-2A606ED37761}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{815997A4-B109-4CFC-9E06-2A606ED37761}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{815997A4-B109-4CFC-9E06-2A606ED37761}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{815997A4-B109-4CFC-9E06-2A606ED37761}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4232DB27-15DB-4E00-B201-E383A9D3F095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4232DB27-15DB-4E00-B201-E383A9D3F095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4232DB27-15DB-4E00-B201-E383A9D3F095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4232DB27-15DB-4E00-B201-E383A9D3F095}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{815997A4-B109-4CFC-9E06-2A606ED37761} = {215DD4CE-C825-4DB6-B05B-CE390D9CE322}
+		{4232DB27-15DB-4E00-B201-E383A9D3F095} = {215DD4CE-C825-4DB6-B05B-CE390D9CE322}
+	EndGlobalSection
+EndGlobal
